@@ -1,0 +1,16 @@
+#Basic Maths on Visual studio / learn Machine Learning\\
+
+repetir = 0
+while(repetir == 0):
+
+    print('siguiente')
+
+    n1 = int(input('ingrese el primer numero'))
+    n2 = int(input('ingrese el primer numero'))
+
+    suma = n1 + n2
+    print('la suma es', suma)
+    resta = n1 - n2
+    print('la resta es', resta)
+    multi = n1 * n2
+    print('la multiplicacion es', multi)
